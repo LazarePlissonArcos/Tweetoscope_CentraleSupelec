@@ -4,7 +4,7 @@ Real-time trending-hashtag pipeline over a stream of tweets. A Java monolith
 (single-threaded, ~2-4k tweets/min ceiling, no fault tolerance) was re-architected 
 into Kafka-streamed microservices, containerised with Docker.
 
-**Full code, commit history, and live CI/CD pipeline: [GitLab repo](<lien>)**
+**Full code, commit history, and live CI/CD pipeline: [GitLab repo](https://gitlab.com/LazarePA/tweetoscope_centralesupelec)**
 
 Built at CentraleSupélec (software-engineering course project) with Emmanuel Benichou 
 and Margaux Blondel.
