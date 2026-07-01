@@ -1,5 +1,8 @@
 # Tweetoscope
 
+[![GitLab](https://img.shields.io/badge/GitLab-Full_code_%26_CI%2FCD-FC6D26?logo=gitlab&logoColor=white)](https://gitlab.com/LazarePA/tweetoscope_centralesupelec)
+
+
 Real-time trending-hashtag pipeline over a stream of tweets. A Java monolith 
 (single-threaded, ~2-4k tweets/min ceiling, no fault tolerance) was re-architected 
 into Kafka-streamed microservices, containerised with Docker.
